@@ -10,3 +10,5 @@ This is my first GitHub repository created during my Git internship.
 - Understand GitHub Flow
 - Master Pull Request workflow
 - Learn Markdown formatting
+## Additional Information
+This branch was created to practice the GitHub Flow.
