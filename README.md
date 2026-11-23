@@ -1,14 +1,28 @@
-# Hello World
+# Hello World Project - Git Internship Demonstration
 
-My Name: Khalid Boussaroui
-Student No: 2311604166
+## Table of Contents
+- [Project Metadata](#project-metadata)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Project Description
-This is my first GitHub repository created during my Git internship.
+## Project Metadata
+| Attribute | Value |
+|-----------|-------|
+| Author | Khalid Boussaroui |
+| Institution | Hubei University of Technology |
+| Internship Period | Nov 16 - Dec 17 |
+| GitHub Guides Used | Mastering Markdown, Documenting Projects |
 
-## Learning Objectives
-- Understand GitHub Flow
-- Master Pull Request workflow
-- Learn Markdown formatting
-## Additional Information
-This branch was created to practice the GitHub Flow.
+## Features
+- Complete GitHub Flow implementation
+- Professional documentation
+- Issue tracking system
+- GitHub Pages deployment
+
+## Installation
+```bash
+git clone https://github.com/khalidboussaroui-jpg/hello-world.git
+cd hello-worldSS
