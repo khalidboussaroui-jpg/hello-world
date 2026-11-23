@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24475911.svg)](https://doi.org/10.5281/zenodo.24475911)
+
 # Hello World Project - Git Internship Demonstration
 
 ## Table of Contents
@@ -25,4 +27,4 @@
 ## Installation
 ```bash
 git clone https://github.com/khalidboussaroui-jpg/hello-world.git
-cd hello-worldSS
+cd hello-world
